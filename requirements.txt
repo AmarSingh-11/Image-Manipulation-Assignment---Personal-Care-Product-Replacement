@@ -1,0 +1,14 @@
+
+---
+
+### **requirements.txt**
+```plaintext
+opencv-python
+pillow
+torch
+torchvision
+diffusers
+transformers
+rembg
+numpy
+
