@@ -15,3 +15,9 @@ This project replaces an existing personal care product in an image with a new p
    ```bash
    git clone https://github.com/your-repo/image-manipulation.git
    cd image-manipulation
+2. Install dependencies:
+
+sudo apt update && sudo apt install python3-pip
+pip3 install -r requirements.txt
+
+Run Python3 main1.py
